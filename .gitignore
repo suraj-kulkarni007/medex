@@ -1,0 +1,23 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime data
+data/
+history.json
+history_images/
+
+# Dataset
+dataset/
+
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# OS specific
+.DS_Store
+Thumbs.db
